@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pongal_26_snacks/static/js/main.fe63c3f6.js",
+    "main.js": "/pongal_26_snacks/static/js/main.95ad39ae.js",
     "index.html": "/pongal_26_snacks/index.html",
-    "main.fe63c3f6.js.map": "/pongal_26_snacks/static/js/main.fe63c3f6.js.map"
+    "main.95ad39ae.js.map": "/pongal_26_snacks/static/js/main.95ad39ae.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe63c3f6.js"
+    "static/js/main.95ad39ae.js"
   ]
 }
